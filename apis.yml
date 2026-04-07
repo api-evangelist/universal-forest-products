@@ -1,7 +1,12 @@
 aid: universal-forest-products
-url: https://raw.githubusercontent.com/api-evangelist/universal-forest-products/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/universal-forest-products/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.universal-forest-products.com
+description: >-
+  UFP Industries (formerly Universal Forest Products) is a leading global manufacturer
+  and distributor of wood and wood-alternative products serving retail, industrial,
+  and construction markets.
