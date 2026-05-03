@@ -1,0 +1,63 @@
+name: Universal Forest Products Vocabulary
+description: Vocabulary and taxonomy for UFP Industries (formerly Universal Forest Products), a leading global manufacturer and distributor of wood and wood-alternative products for retail, industrial, and construction markets.
+version: '1.0.0'
+created: '2026-05-03'
+modified: '2026-05-03'
+
+domains:
+  - name: Wood Products
+    description: Wood and wood-alternative product types
+    terms:
+      - name: Dimensional Lumber
+        definition: Softwood lumber cut and planed to standardized width and depth measurements used in construction framing
+        aliases:
+          - Framing Lumber
+          - Structural Lumber
+      - name: Engineered Wood Products
+        definition: Manufactured wood products made by binding wood strands, fibers, or veneers with adhesives to form structural components
+        aliases:
+          - EWP
+      - name: Pressure-Treated Wood
+        definition: Lumber infused with chemical preservatives to protect against rot, decay, and insect damage
+      - name: Composite Decking
+        definition: Decking material made from a blend of wood fiber and plastic that resists fading, staining, and rot
+      - name: Truss
+        definition: A prefabricated structural framework of lumber used for roof, floor, and wall support systems
+      - name: Panel Products
+        definition: Sheet goods including plywood, OSB (oriented strand board), and particle board used in construction
+      - name: Pallets
+        definition: Flat wooden platforms used as bases for loading, storing, and transporting goods
+
+  - name: Markets
+    description: Market segments served by UFP Industries
+    terms:
+      - name: Retail
+        definition: Sales channel serving home improvement retailers and big-box stores with consumer-grade building products
+      - name: Industrial
+        definition: Manufacturing and packaging segment providing custom wood packaging, crating, and materials handling solutions
+      - name: Construction
+        definition: Segment supplying structural lumber, engineered wood, and specialty products to residential and commercial builders
+
+  - name: Supply Chain
+    description: Wood products supply chain concepts
+    terms:
+      - name: Mill Direct
+        definition: Direct procurement model where wood products are sourced directly from lumber mills without intermediaries
+      - name: Treating Plant
+        definition: Manufacturing facility that applies chemical preservatives to lumber through pressure treatment processes
+      - name: Component Manufacturing
+        definition: Production of pre-cut or pre-assembled structural wood components (trusses, wall panels, stair systems)
+      - name: SKU
+        definition: Stock Keeping Unit - unique identifier for a specific product in the UFP inventory management system
+      - name: BOM
+        definition: Bill of Materials - list of materials required for manufacturing a specific wood product or assembly
+
+  - name: Sustainability
+    description: Environmental and sustainability practices
+    terms:
+      - name: FSC Certification
+        definition: Forest Stewardship Council certification indicating wood products come from responsibly managed forests
+      - name: Chain of Custody
+        definition: Certification tracking wood products from forest harvest through manufacturing to the end customer
+      - name: Carbon Sequestration
+        definition: The natural process by which trees absorb and store carbon dioxide from the atmosphere

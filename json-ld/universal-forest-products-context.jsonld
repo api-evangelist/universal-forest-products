@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "ufp": "https://api-evangelist.github.io/universal-forest-products/vocabulary#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "WoodProduct": "ufp:WoodProduct",
+    "LumberProduct": "ufp:LumberProduct",
+    "EngineeredWoodProduct": "ufp:EngineeredWoodProduct",
+    "Pallet": "ufp:Pallet",
+    "Truss": "ufp:Truss",
+    "TreatingPlant": "ufp:TreatingPlant",
+    "Manufacturer": {
+      "@id": "schema:Organization",
+      "rdfs:comment": "A manufacturing organization in the wood products industry"
+    },
+
+    "sku": {
+      "@id": "ufp:sku",
+      "@type": "xsd:string"
+    },
+    "species": {
+      "@id": "ufp:species",
+      "@type": "xsd:string"
+    },
+    "grade": {
+      "@id": "ufp:grade",
+      "@type": "xsd:string"
+    },
+    "treatment": {
+      "@id": "ufp:treatment",
+      "@type": "xsd:string"
+    },
+    "thickness": {
+      "@id": "ufp:thickness",
+      "@type": "xsd:decimal"
+    },
+    "width": {
+      "@id": "ufp:width",
+      "@type": "xsd:decimal"
+    },
+    "length": {
+      "@id": "ufp:length",
+      "@type": "xsd:decimal"
+    },
+    "market": {
+      "@id": "ufp:market",
+      "@type": "xsd:string"
+    },
+    "fscCertified": {
+      "@id": "ufp:fscCertified",
+      "@type": "xsd:boolean"
+    },
+    "name": {
+      "@id": "schema:name"
+    },
+    "description": {
+      "@id": "schema:description"
+    },
+    "manufacturer": {
+      "@id": "schema:manufacturer"
+    },
+    "weight": {
+      "@id": "schema:weight"
+    }
+  }
+}
