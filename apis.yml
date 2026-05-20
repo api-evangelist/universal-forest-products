@@ -20,6 +20,10 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: GitHubOrganization
+    url: https://github.com/UfpIndustries
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ufp-industries
   - type: Website
     url: https://ufpi.com
   - type: Wikipedia
