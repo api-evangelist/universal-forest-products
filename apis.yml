@@ -21,6 +21,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: DomainSecurity
+    url: security/universal-forest-products-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/UfpIndustries
   - type: LinkedIn
@@ -29,3 +31,5 @@ common:
     url: https://ufpi.com
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/UFP_Industries
+  - url: https://ufpi.com/feed/
+    type: Blog
