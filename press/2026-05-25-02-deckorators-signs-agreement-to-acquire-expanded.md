@@ -1,7 +1,9 @@
 ---
 title: Deckorators® Signs Agreement to Acquire Expanded ...
 url: https://www.prnewswire.com/news-releases/deckorators-signs-agreement-to-acquire-expanded-manufacturing-capabilities-accelerating-innovation-in-outdoor-living-302734877.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Universal Forest Products" press release artificial intelligence'
 position: 2
 source: serpapi-google
