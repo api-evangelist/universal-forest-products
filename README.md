@@ -64,51 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-UFP Industries (formerly Universal Forest Products) is a leading global manufacturer and distributor of wood and wood-alternative products. UFP operates over 200 facilities globally supplying lumber, engineered wood products, packaging, and building materials to three primary markets: retail (home improvement), industrial (packaging and materials handling), and construction (residential and commercial building). The company has been publicly traded on Nasdaq (UFPI) since 1993.
+UFP Industries (formerly Universal Forest Products) is a leading global manufacturer and distributor of wood and wood-alternative products serving retail, industrial, and construction markets. UFP operates over 200 facilities globally supplying lumber, engineered wood products, packaging, and building materials. The company has integrated OnBase-based business system integration for document management and workflow automation across its supply chain operations.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/universal-forest-products/refs/heads/main/apis.yml)
+**Areas:** Manufacturing · Construction · Wood Products · Supply Chain · Building Materials · Fortune 1000
 
-## Scope
+## Universal Forest Products on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Universal Forest Products is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/universal-forest-products/](https://apis.io/providers/universal-forest-products/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Manufacturing
-- Construction
-- Wood Products
-- Supply Chain
-- Building Materials
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### JSON-LD (1)
 
-- **Created:** 2026-05-03
-- **Modified:** 2026-05-03
+Linked-data contexts for the provider's vocabulary.
 
-## APIs
+- [Universal Forest Products Context](https://apis.io/jsonld/universal-forest-products/universal-forest-products-context/)
 
-No public developer APIs have been documented for UFP Industries. The company has internal business system integration capabilities including document management, workflow automation, and ERP integrations.
+#### Vocabulary (1)
 
-## Vocabulary
+The provider's domain terms, defined.
 
-| Vocabulary | Path |
-|---|---|
-| Universal Forest Products Vocabulary | [vocabulary/universal-forest-products-vocabulary.yml](vocabulary/universal-forest-products-vocabulary.yml) |
+- [Universal Forest Products Vocabulary](https://apis.io/vocabularies/universal-forest-products/universal-forest-products-vocabulary/)
 
-## JSON-LD
+#### Security (1)
 
-| Context | Path |
-|---|---|
-| Universal Forest Products Context | [json-ld/universal-forest-products-context.jsonld](json-ld/universal-forest-products-context.jsonld) |
+Authentication, trust centre, and vulnerability disclosure.
 
-## Common Properties
+- [Universal Forest Products Domain Security](https://apis.io/security/universal-forest-products/universal-forest-products-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://ufpi.com)
-- [Wikipedia](https://en.wikipedia.org/wiki/UFP_Industries)
+- [Blog](https://ufpi.com/feed/)
+- [GitHub](https://github.com/UfpIndustries)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 8.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 14.7 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/universal-forest-products/](https://apis.io/providers/universal-forest-products/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Universal Forest Products: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/universal-forest-products/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
